@@ -5,6 +5,7 @@
 * https://disk.yandex.ru/d/z2R7fySVLMRmLw
 * https://drive.google.com/file/d/1WlGDu7TEU9c6z_XX11YwxHaeyPz0XBmG/view?usp=sharing
 * https://www.mediafire.com/file/ybvvg71ck8ateem/Sony-Ericsson-X8-Basebands-1.0.0.zip/file
+* https://4pda.to/forum/index.php?showtopic=193410&view=findpost&p=129939886
 
 ## Basebands
 * X8i_2.0.2.A.0.24_Baseband_006
